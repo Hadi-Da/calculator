@@ -1,3 +1,4 @@
-# my codes
+# my calculator codes
 
-hi this is my first code !
+welcome !.
+you can see my calculator codes .
